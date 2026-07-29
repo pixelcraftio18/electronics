@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" role="img" aria-label="1.5 ton inverter split air conditioner">
+  <defs>
+    <linearGradient id="b2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EFF6FF"/><stop offset="1" stop-color="#DBEAFE"/></linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#b2)"/>
+  <circle cx="300" cy="190" r="150" fill="#BFDBFE" opacity="0.6"/>
+  <rect x="110" y="120" width="380" height="110" rx="24" fill="#F8FAFC"/>
+  <rect x="110" y="120" width="380" height="30" rx="15" fill="#FFFFFF"/>
+  <rect x="132" y="196" width="336" height="14" rx="7" fill="#CBD5E1"/>
+  <circle cx="452" cy="172" r="7" fill="#2563EB"/>
+  <g stroke="#60A5FA" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.85">
+    <path d="M170 258c20 24 40 24 60 0"/>
+    <path d="M260 258c20 24 40 24 60 0"/>
+    <path d="M350 258c20 24 40 24 60 0"/>
+    <path d="M215 300c20 24 40 24 60 0" opacity="0.6"/>
+    <path d="M305 300c20 24 40 24 60 0" opacity="0.6"/>
+  </g>
+  <text x="300" y="392" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F172A">INVERTER SPLIT AC · 5★</text>
+</svg>

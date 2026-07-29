@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" role="img" aria-label="Convection microwave oven">
+  <defs><linearGradient id="b6" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F1F5F9"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient></defs>
+  <rect width="600" height="450" fill="url(#b6)"/>
+  <circle cx="300" cy="200" r="146" fill="#CBD5E1" opacity="0.45"/>
+  <rect x="96" y="128" width="408" height="196" rx="18" fill="#1E293B"/>
+  <rect x="118" y="150" width="266" height="152" rx="10" fill="#0F172A"/>
+  <rect x="130" y="162" width="242" height="128" rx="6" fill="#334155"/>
+  <g fill="#F59E0B" opacity="0.9"><circle cx="251" cy="226" r="40"/></g>
+  <ellipse cx="251" cy="262" rx="70" ry="12" fill="#94A3B8" opacity="0.7"/>
+  <rect x="400" y="150" width="84" height="46" rx="6" fill="#0F172A"/>
+  <text x="442" y="180" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="17" font-weight="700" fill="#60A5FA">27L</text>
+  <g fill="#475569"><circle cx="420" cy="226" r="12"/><circle cx="464" cy="226" r="12"/><rect x="408" y="256" width="68" height="14" rx="7"/><rect x="408" y="280" width="68" height="14" rx="7"/></g>
+  <text x="300" y="382" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F172A">CONVECTION MICROWAVE OVEN</text>
+</svg>

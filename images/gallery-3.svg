@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Refrigerator and kitchen appliance aisle">
+  <defs>
+    <linearGradient id="c3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#CBD5E1"/></linearGradient>
+    <linearGradient id="mm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E2E8F0"/><stop offset="1" stop-color="#94A3B8"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#c3)"/>
+  <g>
+    <rect x="60" y="110" width="150" height="330" rx="16" fill="url(#mm)" stroke="#94A3B8" stroke-width="2"/>
+    <rect x="60" y="110" width="150" height="110" rx="16" fill="#CBD5E1"/>
+    <rect x="240" y="140" width="150" height="300" rx="16" fill="#F8FAFC" stroke="#94A3B8" stroke-width="2"/>
+    <rect x="420" y="110" width="150" height="330" rx="16" fill="url(#mm)" stroke="#94A3B8" stroke-width="2"/>
+    <rect x="600" y="150" width="150" height="290" rx="16" fill="#F1F5F9" stroke="#94A3B8" stroke-width="2"/>
+    <g fill="#64748B">
+      <rect x="192" y="150" width="7" height="50" rx="3.5"/><rect x="192" y="250" width="7" height="70" rx="3.5"/>
+      <rect x="372" y="180" width="7" height="60" rx="3.5"/><rect x="552" y="150" width="7" height="50" rx="3.5"/>
+    </g>
+    <rect x="86" y="250" width="60" height="30" rx="6" fill="#0F172A"/>
+    <text x="116" y="271" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="13" font-weight="700" fill="#60A5FA">-18°C</text>
+  </g>
+  <rect x="0" y="470" width="800" height="130" fill="#0F172A"/>
+  <text x="400" y="530" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="26" font-weight="700" fill="#F8FAFC" letter-spacing="4">KITCHEN AISLE</text>
+  <text x="400" y="562" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="14" fill="#94A3B8" letter-spacing="3">REFRIGERATORS &amp; APPLIANCES</text>
+</svg>
